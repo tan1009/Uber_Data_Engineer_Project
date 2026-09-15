@@ -7,7 +7,7 @@ EH_NAMESPACE                    = "ubereventz"
 EH_NAME                         = "ubertopic"
 
 
-EH_CONN_STR                     = "Endpoint=sb://ubereventz.servicebus.windows.net/;SharedAccessKeyName=SeeData;SharedAccessKey=PuCYI4bq+ogyPfSK4tuCVYCLFCgbd+1WH+AEhFREEUo=;EntityPath=ubertopic"
+EH_CONN_STR                     = ""
 # Kafka Consumer configuration
 
 KAFKA_OPTIONS = {
