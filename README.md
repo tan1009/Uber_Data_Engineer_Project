@@ -6,6 +6,9 @@ Tools Used ->
 2) Databricks
 3) Azure Data Factory
 
+Used jinja2 for creating configuration template that can be used to add tables and make changes. 
+Used a technique called metadata driven spark structured pipeline.
+
 
 
 
